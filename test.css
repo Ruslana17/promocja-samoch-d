@@ -345,3 +345,112 @@ left: 572px;
 width: 321px;
 height: 22px;
 }
+#lorem{ /* checkbox 1*/
+position: absolute;
+top: 482px;
+left: 57px;
+width: 25px;
+height: 25px;
+
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;    
+}
+.lorem2{ /* абзац р*/
+display: inline;
+position: absolute;
+top: 468px;
+left: 98px;
+width: 797px;
+height: 38px;
+
+text-align: left;
+font: normal normal normal 14px/19px Avenir Next;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+
+#więcej{ /* ссылка подробнее*/
+text-decoration: none;
+color: #FFFFFF;
+}
+
+#loremIP{ /* checkbox 2*/
+position: absolute;
+top: 538px;
+left: 57px;
+width: 25px;
+height: 25px;
+
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1; 
+}
+
+.loremIP{/* абзац р второй*/
+display: inline;
+position: absolute;
+top: 527px;
+left: 98px;
+width: 797px;
+height: 38px;
+    
+text-align: left;
+font: normal normal normal 14px/19px Avenir Next;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+
+#więcej2{ /* ссылка подробнее*/
+text-decoration: none;
+color: #FFFFFF;
+}
+
+#loremIPSUM{/* checkbox 3*/
+position: absolute;
+top: 599px;
+left: 57px;
+width: 25px;
+height: 25px;
+    
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1; 
+}
+.loremIPSUM{ /* абзац р 3*/
+display: inline;
+position: absolute;
+top: 586px;
+left: 98px;
+width: 797px;
+height: 38px;
+        
+text-align: left;
+font: normal normal normal 14px/19px Avenir Next;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+#więcej3{ /* ссылка подробнее*/
+text-decoration: none;
+color: #FFFFFF;
+}
+
+.wyślij{
+position: absolute;
+width: 212px;
+height: 60px;
+top: 667px;
+left: 376px;
+}
+.wyślij:hover{
+background: #2B2A29 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.tlozasady{
+position: absolute;
+top: 1671px;
+width: 1440px;
+height: 1094px;
+}
+.tlozasady2{
+position: absolute;
+
+}
