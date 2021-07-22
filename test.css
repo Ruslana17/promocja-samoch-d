@@ -111,10 +111,9 @@ left: 614px;
 width: 212px;
 height: 60px;
 }
-.weżudział:hover{
+/*.weżudział:hover{
 background-color: #2B2A29;
-border-color: #2B2A29;
-}
+}*/
 .formularz2 {
 position: absolute;
 top: 774px;
@@ -439,10 +438,10 @@ height: 60px;
 top: 667px;
 left: 376px;
 }
-.wyślij:hover{
+/*.wyślij:hover{
 background: #2B2A29 0% 0% no-repeat padding-box;
 opacity: 1;
-}
+}*/
 
 .tlozasady{
 position: absolute;
