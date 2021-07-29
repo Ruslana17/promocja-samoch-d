@@ -453,3 +453,102 @@ height: 1094px;
 position: absolute;
 
 }
+
+.zasadynagrody{
+position: absolute;
+display: inline;
+height: 41px;
+
+left: 575px;
+top: 136px;
+font-weight:lighter;
+letter-spacing: 0px;
+font-style:Avenir Next;
+font-size: 30px;
+letter-spacing: 0px;
+color: #FFFFFF;
+text-transform: uppercase;
+padding: 0px;
+margin: 0px;
+}
+.squerPic{
+position: absolute;
+width: 82px;
+height: 83px;
+top: 293px;
+left: 336px;
+}
+.squerPic2{
+position: absolute;
+top: 294px;
+left: 679px;
+width: 82px;
+height: 82px;
+}
+.squerPic3{
+position: absolute;
+top: 294px;
+left: 1022px;
+width: 82px;
+height: 81px;
+}
+.szaryprostokąt{
+position: absolute;
+top: 425px;
+left: 239px;
+width: 277px;
+height: 71px;
+}
+.szaryprostokąt2{
+position: absolute;
+top: 425px;
+left: 581px;
+width: 278px;
+height: 70px;
+}
+.szaryprostokąt3{
+position: absolute;
+top: 425px;
+left: 924px;
+width: 278px;
+height: 70px;
+}
+.Kup{
+position: absolute;
+top: 411px;
+left:269px;
+width: 218px;
+height: 66px;
+
+text-align: center;
+font: normal normal normal 16px/22px Avenir Next;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.Uzupełnij{
+position: absolute;
+top:420px;
+left:633px;
+width: 174px;
+height: 44px;
+
+text-align: center;
+font: normal normal normal 16px/22px Avenir Next;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.Zgarnij{
+position: absolute;
+top:420px;
+left: 1030px;
+width: 66px;
+height: 44px;
+
+text-align: center;
+font: normal normal normal 16px/22px Avenir Next;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
